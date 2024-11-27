@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE coleccion>
+
+<coleccion>
+
+    <equipo>
+        <nombre>Real Madrid</nombre>
+        <entrenador>Carlo Ancelotti</entrenador>
+        <liga>La Liga</liga>
+        <estadio>Santiago Bernabéu</estadio>
+        <fundacion>1902</fundacion>
+        <titulos>Champions League, La Liga, Copa del Rey</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>FC Barcelona</nombre>
+        <entrenador>Xavi Hernández</entrenador>
+        <liga>La Liga</liga>
+        <estadio>Spotify Camp Nou</estadio>
+        <fundacion>1899</fundacion>
+        <titulos>Champions League, La Liga, Copa del Rey</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Manchester United</nombre>
+        <entrenador>Erik ten Hag</entrenador>
+        <liga>Premier League</liga>
+        <estadio>Old Trafford</estadio>
+        <fundacion>1878</fundacion>
+        <titulos>Premier League, Champions League, FA Cup</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Bayern Múnich</nombre>
+        <entrenador>Thomas Tuchel</entrenador>
+        <liga>Bundesliga</liga>
+        <estadio>Allianz Arena</estadio>
+        <fundacion>1900</fundacion>
+        <titulos>Champions League, Bundesliga, DFB-Pokal</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Juventus</nombre>
+        <entrenador>Massimiliano Allegri</entrenador>
+        <liga>Serie A</liga>
+        <estadio>Allianz Stadium</estadio>
+        <fundacion>1897</fundacion>
+        <titulos>Serie A, Coppa Italia</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Paris Saint-Germain</nombre>
+        <entrenador>Luis Enrique</entrenador>
+        <liga>Ligue 1</liga>
+        <estadio>Parc des Princes</estadio>
+        <fundacion>1970</fundacion>
+        <titulos>Ligue 1, Coupe de France</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Liverpool</nombre>
+        <entrenador>Jürgen Klopp</entrenador>
+        <liga>Premier League</liga>
+        <estadio>Anfield</estadio>
+        <fundacion>1892</fundacion>
+        <titulos>Champions League, Premier League, FA Cup</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Manchester City</nombre>
+        <entrenador>Pep Guardiola</entrenador>
+        <liga>Premier League</liga>
+        <estadio>Etihad Stadium</estadio>
+        <fundacion>1880</fundacion>
+        <titulos>Premier League, FA Cup</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>AC Milan</nombre>
+        <entrenador>Stefano Pioli</entrenador>
+        <liga>Serie A</liga>
+        <estadio>San Siro</estadio>
+        <fundacion>1899</fundacion>
+        <titulos>Champions League, Serie A</titulos>
+    </equipo>
+
+    <equipo>
+        <nombre>Ajax</nombre>
+        <entrenador>Maurice Steijn</entrenador>
+        <liga>Eredivisie</liga>
+        <estadio>Johan Cruyff Arena</estadio>
+        <fundacion>1900</fundacion>
+        <titulos>Eredivisie, Champions League</titulos>
+    </equipo>
+
+</coleccion>
