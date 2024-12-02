@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Modulos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="modulos.xsd">
+  <Modulo>
+    <Nombre>Programación</Nombre>
+    <Contenidos>
+      <UD>
+        <Tipo>Teórico</Tipo>
+        <Descripcion>Fundamentos de programación y algoritmos</Descripcion>
+      </UD>
+      <UD>
+        <Tipo>Práctico</Tipo>
+        <Descripcion>Desarrollo de aplicaciones básicas</Descripcion>
+      </UD>
+    </Contenidos>
+  </Modulo>
+  <Modulo>
+    <Nombre>Base de Datos</Nombre>
+    <Contenidos>
+      <UD>
+        <Tipo>Teórico</Tipo>
+        <Descripcion>Modelado de datos y normalización</Descripcion>
+      </UD>
+      <UD>
+        <Tipo>Práctico</Tipo>
+        <Descripcion>Consultas SQL y gestión de bases de datos</Descripcion>
+      </UD>
+    </Contenidos>
+  </Modulo>
+</Modulos>
