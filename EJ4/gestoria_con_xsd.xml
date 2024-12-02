@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Gestoria xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="gestoria.xsd">
+  <Sede Codigo="C1234567" EmpleadoAlta="Juan Pérez" FechaAlta="2024-12-01">
+    <Codigo>Plaza Mayor, 1</Codigo>
+    <DepartamentoEntrada>Autorizaciones</DepartamentoEntrada>
+    <DepartamentoGestionClientes>Gestión de Clientes</DepartamentoGestionClientes>
+  </Sede>
+  <ClienteNDatos Codigo="AAA-112">
+    <Descripcion>insolvente</Descripcion>
+    <NumeroViviendas>10</NumeroViviendas>
+    <Vivienda ID="001">
+      <Coste>100</Coste>
+      <Resumen>Producto muy frágil</Resumen>
+      <Plazo>10</Plazo>
+    </Vivienda>
+    <Vivienda ID="002">
+      <Coste>130</Coste>
+      <Resumen>Producto nada frágil</Resumen>
+      <Plazo>17</Plazo>
+    </Vivienda>
+  </ClienteNDatos>
+</Gestoria>

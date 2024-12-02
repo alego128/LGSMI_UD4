@@ -1,0 +1,19 @@
+<!ELEMENT Gestoria (Sede+, Cliente+)>
+<!ELEMENT Sede (Codigo, Direccion?, DepartamentoEntrada, DepartamentoGestionClientes)>
+<!ELEMENT Cliente (Codigo, Descripcion?, NumeroViviendas, CosteVivienda, Resumen, PlazoAlta)>
+<!ELEMENT Codigo (#PCDATA)>
+<!ELEMENT Direccion (#PCDATA)>
+<!ELEMENT DepartamentoEntrada (#PCDATA)>
+<!ELEMENT DepartamentoGestionClientes (#PCDATA)>
+<!ELEMENT Descripcion (#PCDATA)>
+<!ELEMENT NumeroViviendas (#PCDATA)>
+<!ELEMENT CosteVivienda (#PCDATA)>
+<!ELEMENT Resumen (#PCDATA)>
+<!ELEMENT PlazoAlta (#PCDATA)>
+
+<!ATTLIST Sede Codigo CDATA #REQUIRED>
+<!ATTLIST Sede EmpleadoAlta CDATA #REQUIRED>
+<!ATTLIST Sede FechaAlta CDATA #REQUIRED>
+
+<!ATTLIST Cliente Codigo CDATA #REQUIRED>
+<!ATTLIST Cliente Descripcion (solvente|insolvente) #IMPLIED>
