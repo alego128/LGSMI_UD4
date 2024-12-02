@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alumnos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="alumnos.xsd">
+  <Alumno>
+    <NIF>12345678A</NIF>
+    <Resultado>apto</Resultado>
+    <IP>192.168.0.1</IP>
+    <Observaciones>Excelente desempeño</Observaciones>
+  </Alumno>
+  <Alumno>
+    <NIF>87654321B</NIF>
+    <Resultado>No apto</Resultado>
+    <MAC>00:1B:44:11:3A:B7</MAC>
+  </Alumno>
+</Alumnos>
