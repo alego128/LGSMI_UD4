@@ -1,0 +1,36 @@
+{
+  "Modulos": {
+    "Modulo": [
+      {
+        "Nombre": "Programación",
+        "Contenidos": {
+          "UD": [
+            {
+              "Tipo": "Teórico",
+              "Descripcion": "Fundamentos de programación y algoritmos"
+            },
+            {
+              "Tipo": "Práctico",
+              "Descripcion": "Desarrollo de aplicaciones básicas"
+            }
+          ]
+        }
+      },
+      {
+        "Nombre": "Base de Datos",
+        "Contenidos": {
+          "UD": [
+            {
+              "Tipo": "Teórico",
+              "Descripcion": "Modelado de datos y normalización"
+            },
+            {
+              "Tipo": "Práctico",
+              "Descripcion": "Consultas SQL y gestión de bases de datos"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Gestoria": {
+    "Sede": [
+      {
+        "Codigo": "string",
+        "Direccion": "string (opcional)",
+        "DepartamentoEntrada": "string",
+        "DepartamentoGestionClientes": "string",
+        "attributes": {
+          "Codigo": "string (requerido)",
+          "EmpleadoAlta": "string (requerido)",
+          "FechaAlta": "date (requerido)"
+        }
+      }
+    ],
+    "Cliente": [
+      {
+        "Codigo": "string",
+        "Descripcion": "string (opcional)",
+        "NumeroViviendas": "integer",
+        "Vivienda": [
+          {
+            "CosteVivienda": "decimal",
+            "Resumen": "string",
+            "PlazoAlta": "string",
+            "attributes": {
+              "ID": "string (requerido)"
+            }
+          }
+        ],
+        "attributes": {
+          "Codigo": "string (requerido)"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "concesionario": {
+    "coche": [
+      {
+        "codigo": "001",
+        "marca": "Toyota",
+        "modelo": "Corolla",
+        "matricula": "ABC1234",
+        "potencia": 130,
+        "plazas": 5,
+        "puertas": 4
+      },
+      {
+        "codigo": "002",
+        "marca": "Ford",
+        "modelo": "Focus",
+        "matricula": "XYZ5678",
+        "potencia": 150,
+        "plazas": 5,
+        "puertas": 5
+      }
+    ]
+  }
+}

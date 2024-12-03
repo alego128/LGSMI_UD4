@@ -1,0 +1,17 @@
+{
+  "Alumnos": {
+    "Alumno": [
+      {
+        "NIF": "12345678A",
+        "Resultado": "apto",
+        "IP": "192.168.0.1",
+        "Observaciones": "Excelente desempeño"
+      },
+      {
+        "NIF": "87654321B",
+        "Resultado": "No apto",
+        "MAC": "00:1B:44:11:3A:B7"
+      }
+    ]
+  }
+}
